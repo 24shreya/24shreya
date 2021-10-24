@@ -17,5 +17,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shreya-1a496018b/" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/linkedin.svg" alt="himanshudadheech" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreya-1a496018b/" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/linkedin.svg" alt="24shreya" height="30" width="40" /></a>
 

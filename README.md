@@ -9,7 +9,8 @@
 - 🔭 I’m currently working on making this readme file worth looking at 😄
 - 🌱 I’m currently learning Android with Kotlin and some broken spanish..
 - 👯 I’m looking to collaborate on Python/C++ projects
-- 🤔 I’m looking for help with Data structure
+<!--- 
+- 🤔 I’m looking for help with improving --->
 - 💬 Ask me anything!
 - 📫 How to reach me: [Connect with me](#connect-with-me)
 - 😄 Pronouns: she/her
@@ -30,7 +31,7 @@
 </p>
 
 <div id="connect-with-me">
-  <h3> Connect with me: </h3>
+  <h3> Connect with me: 🤝 </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shreya-1a496018b/" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/linkedin.svg" alt="24shreya" height="30" width="40" /></a>
 

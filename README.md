@@ -7,7 +7,7 @@
 <!--Here are some ideas to get you started:--->
 
 - 🔭 I’m currently working on making this readme file worth looking at 😄
-- 🌱 I’m currently learning Data Structures and some broken spanish 
+- 🌱 I’m currently learning Android with Kotlin and some broken spanish..
 - 👯 I’m looking to collaborate on Python/C++ projects
 - 🤔 I’m looking for help with Data structure
 - 💬 Ask me anything!

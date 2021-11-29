@@ -12,7 +12,7 @@
 <!--- 
 - 🤔 I’m looking for help with improving --->
 - 💬 Ask me anything!
-<!---- 📫 How to reach me: [Connect with me](#connect-with-me) --->
+- 📫 How to reach me: [Connect with me](#connect-with-me) 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite word is awesome
 

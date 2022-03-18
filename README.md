@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<!--Here are some ideas to get you started:--->
+<!--Here are some ideas to get you started:---> <!-- - 📫 How to reach me: [Connect with me](#connect-with-me)  --->
 
 - 🔭 I’m currently working on making this readme file worth looking at 😄
 - 🌱 I’m currently learning Android with Kotlin and some broken spanish..
@@ -12,9 +12,8 @@
 <!--- 
 - 🤔 I’m looking for help with improving --->
 - 💬 Ask me anything!
-- 📫 How to reach me: [Connect with me](#connect-with-me) 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My favorite word is awesome
+- ⚡ Fun fact: My favorite word is 'AWESOME' :D
 
 <h3 align="left">Languages and Tools:</h3>
 

@@ -9,16 +9,16 @@
 - 💬 Ask me anything about C++, Python and Canva!
 - 😄 Pronouns: she/her
 - 📫 Reach me on <html><a href="https://www.linkedin.com/in/shreya-1a496018b">Linkedin</a></html>
-- ⚡ Fun fact: My favorite word is 'AWESOME' :D
+- ⚡ Fun fact: The legendary TARDIS is actually stolen. The Doctor stole it when he was running away from his home planet about 2000 years ago. 
 
-### 🧘‍♀️ About Me 
+### <img src="https://github.com/24shreya/24shreya/blob/main/5eeea355389655.59822ff824b72.gif" width="40px"> About Me 
 📝 I am a passionate Coder and active learner.
-💻 My interests lies in working on real world problems and to make better technical solutions.
+💻 My interests lies in working on real world problems, making better technical solutions and building a community of developers who can share their knwoledge.
 🧐 Currently, my objective is to make career in a leading company having high-tech environment with committed and dedicated people which help me to explore my talent and realize my potential willing to work as a key player in challenging and working environment of the company.
 
 ------------------
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 💻 Languages and Tools:</h3>
 
 <p align="left"> 
   
